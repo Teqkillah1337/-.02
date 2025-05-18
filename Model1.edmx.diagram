@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ebf0c3868cb1420788549c5f67247676" Name="Diagram1" ZoomLevel="27">
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.Analyzers" Width="1.5" PointX="12.5" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.InsuranceCompanies" Width="1.5" PointX="5.75" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.InsuranceInvoices" Width="1.5" PointX="12.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.LoginHistory" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.Orders" Width="1.5" PointX="10.25" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.OrderServices" Width="1.5" PointX="12.5" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.Patients" Width="1.5" PointX="8" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.PerformedServices" Width="1.5" PointX="14.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.Roles" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.Services" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.SystemUsers" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MedicalLaboratory20Model.UserServices" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Performed__Analy__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Insurance__Insur__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Patients__Insura__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Insurance__Order__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__LoginHist__UserI__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Orders__PatientI__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__OrderServ__Order__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__OrderServ__Servi__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__Performed__Order__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__SystemUse__RoleI__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__UserServi__Servi__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="MedicalLaboratory20Model.FK__UserServi__UserI__4CA06362" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

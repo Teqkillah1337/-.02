@@ -1,0 +1,95 @@
+﻿<Window x:Class="MedicalLaboratory.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Администратор" 
+        Height="600" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="#76E383" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Source="/Resources/logo.png" Width="50" Height="50"/>
+
+                <StackPanel Grid.Column="1" Margin="10,0">
+                    <TextBlock x:Name="lblUserName" FontFamily="Comic Sans MS" FontSize="14"/>
+                    <TextBlock Text="Администратор" FontFamily="Comic Sans MS" FontSize="12"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" HorizontalAlignment="Right">
+                    <Button Content="Выход" FontFamily="Comic Sans MS" 
+                            Background="#498C51" Foreground="White"
+                            Padding="10,5" Click="Logout_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <TabControl Grid.Row="1" FontFamily="Comic Sans MS">
+            <TabItem Header="История входа">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBox x:Name="txtSearchLogin" Width="200" Margin="0,0,10,0"
+                                 FontFamily="Comic Sans MS" ToolTip="Поиск по логину"/>
+                        <Button Content="Поиск" Click="SearchLoginHistory_Click"
+                                FontFamily="Comic Sans MS" Padding="5,2"
+                                Background="#498C51" Foreground="White"/>
+                        <Button Content="Сброс" Click="ResetLoginHistory_Click" Margin="10,0,0,0"
+                                FontFamily="Comic Sans MS" Padding="5,2"
+                                Background="#498C51" Foreground="White"/>
+                    </StackPanel>
+
+                    <DataGrid x:Name="dgLoginHistory" Grid.Row="1" Margin="10" 
+                              AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Дата/время" Binding="{Binding LoginTime}" Width="Auto"/>
+                            <DataGridTextColumn Header="Логин" Binding="{Binding User.Login}" Width="Auto"/>
+                            <DataGridTextColumn Header="Успешно" Binding="{Binding IsSuccess}" Width="Auto"/>
+                            <DataGridTextColumn Header="IP-адрес" Binding="{Binding IpAddress}" Width="Auto"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Расходные материалы">
+                <DataGrid x:Name="dgSupplies" Margin="10" AutoGenerateColumns="False"
+                          CanUserAddRows="True" FontFamily="Comic Sans MS">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="*"/>
+                        <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" Width="Auto"/>
+                        <DataGridTextColumn Header="Ед. измерения" Binding="{Binding Unit}" Width="Auto"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Отчеты">
+                <StackPanel Margin="10">
+                    <Button Content="Сформировать отчет по пользователям" 
+                            Background="#498C51" Foreground="White"
+                            Padding="10,5" Click="GenerateUsersReport_Click"/>
+                    <Button Content="Сформировать отчет по услугам" Margin="0,10,0,0"
+                            Background="#498C51" Foreground="White"
+                            Padding="10,5" Click="GenerateServicesReport_Click"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+
+        <StatusBar Grid.Row="2" Background="#76E383">
+            <StatusBarItem>
+                <TextBlock Text="Медицинская лаборатория №20" FontFamily="Comic Sans MS"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>
