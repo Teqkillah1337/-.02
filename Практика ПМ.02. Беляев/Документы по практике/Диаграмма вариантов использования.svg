@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1245px" preserveAspectRatio="none" style="width:1002px;height:1245px;background:#FFFFFF;" version="1.1" viewBox="0 0 1002 1245" width="1002px" zoomAndPan="magnify"><defs/><g><!--MD5=[84f7d450bfdcf51c67285b789d25779a]
+cluster Медицинская лаборатория--><g id="cluster_Медицинская лаборатория"><rect fill="none" height="1131" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="344" x="652" y="108"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="221" x="713.5" y="122.9951">Медицинская лаборатория</text></g><g id="elem_UC1"><ellipse cx="824.1502" cy="169.93" fill="#F1F1F1" rx="122.6502" ry="26.93" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="213" x="717.6502" y="172.7767">Управление пользователями</text></g><g id="elem_UC2"><ellipse cx="823.8004" cy="257.0601" fill="#F1F1F1" rx="113.3004" ry="25.0601" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="727.3004" y="259.9068">Контроль истории входов</text></g><g id="elem_UC3"><ellipse cx="824.0234" cy="351.1047" fill="#F1F1F1" rx="156.0234" ry="33.6047" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="682.5234" y="353.9514">Управление расходными материалами</text></g><g id="elem_UC4"><ellipse cx="823.9496" cy="442.9899" fill="#F1F1F1" rx="105.4496" ry="23.4899" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="735.9496" y="445.8366">Формирование отчетов</text></g><g id="elem_UC5"><ellipse cx="823.8093" cy="523.7619" fill="#F1F1F1" rx="96.8093" ry="21.7619" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="745.3093" y="526.6085">Прием биоматериала</text></g><g id="elem_UC6"><ellipse cx="824.1177" cy="683.1235" fill="#F1F1F1" rx="103.6177" ry="23.1235" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="738.1177" y="685.9702">Формирование заказов</text></g><g id="elem_UC7"><ellipse cx="824.0638" cy="602.8128" fill="#F1F1F1" rx="94.5638" ry="21.3128" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="748.0638" y="605.6594">Печать штрих-кодов</text></g><g id="elem_UC8"><ellipse cx="824.2482" cy="764.9496" fill="#F1F1F1" rx="107.7482" ry="23.9496" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="733.7482" y="767.7963">Работа с анализаторами</text></g><g id="elem_UC9"><ellipse cx="824.0602" cy="957.212" fill="#F1F1F1" rx="116.5602" ry="25.712" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="724.0602" y="960.0587">Проведение исследований</text></g><g id="elem_UC10"><ellipse cx="823.9468" cy="852.0894" fill="#F1F1F1" rx="125.9468" ry="27.5894" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="713.9468" y="854.936">Подтверждение результатов</text></g><g id="elem_UC11"><ellipse cx="823.8822" cy="1200.0764" fill="#F1F1F1" rx="100.8822" ry="22.5764" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="740.8822" y="1202.9231">Формирование счетов</text></g><g id="elem_UC12"><ellipse cx="824.113" cy="1033.1226" fill="#F1F1F1" rx="66.113" ry="15.6226" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="780.113" y="1036.8702">Учет оплат</text></g><g id="elem_UC13"><ellipse cx="823.9476" cy="1112.8895" fill="#F1F1F1" rx="134.9476" ry="29.3895" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="239" x="704.4476" y="1115.7362">Генерация финансовых отчетов</text></g><!--MD5=[97ab183161fd5d1db7fba7485cf76add]
+entity Admin--><g id="elem_Admin"><ellipse cx="457" cy="227.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M457,235.5 L457,262.5 M444,243.5 L470,243.5 M457,262.5 L444,277.5 M457,262.5 L470,277.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="398.5" y="291.9951">Администратор</text></g><!--MD5=[cb7a3e1301092fb185155433dca725f8]
+entity LabTech--><g id="elem_LabTech"><ellipse cx="457" cy="573.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M457,581.5 L457,608.5 M444,589.5 L470,589.5 M457,608.5 L444,623.5 M457,608.5 L470,623.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="421" y="637.9951">Лаборант</text></g><!--MD5=[0d355f64e2929d81582a3c52b10f248b]
+entity LabResearcher--><g id="elem_LabResearcher"><ellipse cx="457" cy="840.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M457,848.5 L457,875.5 M444,856.5 L470,856.5 M457,875.5 L444,890.5 M457,875.5 L470,890.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="362" y="904.9951">Лаборант-исследователь</text></g><!--MD5=[9b296328f29138e7cc3fdc94285f2126]
+entity Accountant--><g id="elem_Accountant"><ellipse cx="457" cy="1083.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M457,1091.5 L457,1118.5 M444,1099.5 L470,1099.5 M457,1118.5 L444,1133.5 M457,1118.5 L470,1133.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="419.5" y="1147.9951">Бухгалтер</text></g><g id="elem_GMN211"><path d="M700.5,6 L700.5,91.6641 L947.5,91.6641 L947.5,16 L937.5,6 L700.5,6 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M937.5,6 L937.5,16 L947.5,16 L937.5,6 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="207" x="706.5" y="23.0669">Функционал администратора:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="226" x="706.5" y="38.1997">- Управление учетными записями</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="188" x="706.5" y="53.3325">- Просмотр истории входов</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="706.5" y="68.4653">- Управление материалами</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="171" x="706.5" y="83.5981">- Формирование отчетов</text></g><g id="elem_GMN214"><path d="M6,827 L6,912.6641 A0,0 0 0 0 6,912.6641 L301,912.6641 A0,0 0 0 0 301,912.6641 L301,874 L361.6,870 L301,866 L301,837 L291,827 L6,827 A0,0 0 0 0 6,827 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M291,827 L291,837 L301,837 L291,827 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="274" x="12" y="844.0669">Функционал лаборанта-исследователя:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="178" x="12" y="859.1997">- Работа с анализаторами</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="192" x="12" y="874.3325">- Проведение исследований</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="215" x="12" y="889.4653">- Подтверждение результатов</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="12" y="904.5981">- Контроль качества</text></g><!--MD5=[ea3353ea01154d76428968f204f6b4ca]
+link Admin to UC1--><g id="link_Admin_UC1"><path d="M515.84,243.21 C574.71,229.18 666.73,207.25 734.72,191.04 " fill="none" id="Admin-to-UC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="739.98,189.79,730.2992,187.9782,735.1154,190.9455,732.1481,195.7617,739.98,189.79" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[de97aa311480b161bc35f3609e8d693b]
+link Admin to UC2--><g id="link_Admin_UC2"><path d="M515.84,257 C566.47,257 641.64,257 704.95,257 " fill="none" id="Admin-to-UC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="710.25,257,701.25,253,705.25,257,701.25,261,710.25,257" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[48bca86a3c4accf12c9b2d9c814b033a]
+link Admin to UC3--><g id="link_Admin_UC3"><path d="M515.84,271.89 C570.1,285.87 652.54,307.1 718.35,324.05 " fill="none" id="Admin-to-UC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="723.46,325.37,715.7368,319.2583,718.6169,324.1271,713.7482,327.0072,723.46,325.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9c5d918ecfd1c00c01cdb5a4c09a381c]
+link Admin to UC4--><g id="link_Admin_UC4"><path d="M496.28,295.15 C531.67,328.26 587.23,375.02 644,402 C670.29,414.5 700.61,423.29 728.72,429.44 " fill="none" id="Admin-to-UC4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="733.95,430.56,725.9798,424.7741,729.0595,429.5192,724.3145,432.5989,733.95,430.56" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[02553c83fcee465a2d3487d6fe2a9e75]
+link LabTech to UC5--><g id="link_LabTech_UC5"><path d="M493.33,595.35 C551.89,582.68 670.31,557.05 748.12,540.21 " fill="none" id="LabTech-to-UC5" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="753.18,539.11,743.5376,537.1038,748.2931,540.1674,745.2295,544.9229,753.18,539.11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7d68f3482425510be9242e39cbe8342c]
+link LabTech to UC6--><g id="link_LabTech_UC6"><path d="M493.05,621.68 C517.34,633.76 550.79,648.73 582,657 C625.39,668.5 674.46,674.93 716.95,678.52 " fill="none" id="LabTech-to-UC6" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="722.09,678.94,713.4387,674.2331,717.106,678.5401,712.7989,682.2074,722.09,678.94" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[beea8ba047c429dbcb8227ab4b2668e6]
+link LabTech to UC7--><g id="link_LabTech_UC7"><path d="M493.33,603 C546.2,603 647.86,603 724.38,603 " fill="none" id="LabTech-to-UC7" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="729.38,603,720.38,599,724.38,603,720.38,607,729.38,603" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[036174006d8f4862a2a48809bfcdad7a]
+link LabResearcher to UC8--><g id="link_LabResearcher_UC8"><path d="M552.07,836.18 C581.34,826.19 613.84,815.62 644,807 C675.19,798.08 709.82,789.63 740.25,782.67 " fill="none" id="LabResearcher-to-UC8" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="745.49,781.48,735.8247,779.5875,740.6159,782.5949,737.6085,787.3861,745.49,781.48" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8fb78f09d4f0eb6a6e90957dd316dd83]
+link LabResearcher to UC9--><g id="link_LabResearcher_UC9"><path d="M552.47,892.52 C610.39,906.32 683.88,923.84 739.63,937.13 " fill="none" id="LabResearcher-to-UC9" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="744.63,938.32,736.802,932.3432,739.7661,937.1613,734.948,940.1254,744.63,938.32" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[86cc39cc24751a977f070554d64c444f]
+link LabResearcher to UC10--><g id="link_LabResearcher_UC10"><path d="M552.47,865.34 C596.19,863.19 648.76,860.59 695.89,858.27 " fill="none" id="LabResearcher-to-UC10" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="701.02,858.02,691.8264,854.4875,696.0266,858.2768,692.2373,862.477,701.02,858.02" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[474bc884c3e7b81c62db7d4834cd7dac]
+link Accountant to UC11--><g id="link_Accountant_UC11"><path d="M494.63,1122.57 C532.09,1132.29 592,1147.62 644,1160 C677.37,1167.94 714.36,1176.29 746.01,1183.28 " fill="none" id="Accountant-to-UC11" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="751.04,1184.4,743.1057,1178.565,746.1561,1183.329,741.3921,1186.3793,751.04,1184.4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5017c384db6e61251ebf9e53cd0fc076]
+link Accountant to UC12--><g id="link_Accountant_UC12"><path d="M494.54,1103.02 C531.92,1092.98 591.77,1077.4 644,1066 C684.02,1057.26 729.4,1048.91 764.46,1042.8 " fill="none" id="Accountant-to-UC12" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="769.56,1041.91,760.0066,1039.5159,764.6344,1042.7691,761.3812,1047.3969,769.56,1041.91" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a5c18d7d8bcf9793f2bc56425906250e]
+link Accountant to UC13--><g id="link_Accountant_UC13"><path d="M494.67,1113 C538.8,1113 615.5,1113 683.67,1113 " fill="none" id="Accountant-to-UC13" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="688.98,1113,679.98,1109,683.98,1113,679.98,1117,688.98,1113" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[458e36e7615c607509e8fa615fc3da60]
+link UC6 to UC5--><g id="link_UC6_UC5"><path d="M732.19,693.7 C690.85,693.07 645.21,683.75 617.5,651.5 C597.44,628.15 593.11,608.18 644,564 C665.85,545.03 694.7,534.47 722.89,528.75 " fill="none" id="UC6-to-UC5" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="728.15,527.73,718.5575,525.4975,723.2396,528.6721,720.0649,533.3542,728.15,527.73" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="583.5" y="647.5669">extends</text></g><!--MD5=[a95ec1eee0eafe7094f177721d863df2]
+link UC9 to UC8--><g id="link_UC9_UC8"><path d="M727.16,942.78 C697.09,934.02 666.08,919.86 644,897 C609.48,861.26 583.9,825.57 617,788.5 C645.36,756.74 691.4,749.22 732.87,750.36 " fill="none" id="UC9-to-UC8" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="737.91,750.54,729.0528,746.2331,732.913,750.3682,728.7779,754.2284,737.91,750.54" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="583" y="801.5669">includes</text></g><!--MD5=[7b04f786397b8cc95f0b8708307a0097]
+link UC10 to UC9--><g id="link_UC10_UC9"><path d="M824,879.63 C824,893.88 824,911.32 824,926.03 " fill="none" id="UC10-to-UC9" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="824,931.31,828,922.31,824,926.31,820,922.31,824,931.31" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="787" y="910.0669">extends</text></g><!--MD5=[50252a40136653c44576ba1bcb03b60d]
+link Admin to GMN211--><g id="link_Admin_GMN211"><path d="M506.76,218.88 C543.3,191.34 595.19,154.33 644,127 C666.18,114.58 690.73,102.74 714.36,92.21 " fill="none" id="Admin-GMN211" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[b3903a60142a144424cd711068292db1]
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Администратор" as Admin
+actor "Лаборант" as LabTech
+actor "Лаборант-исследователь" as LabResearcher
+actor "Бухгалтер" as Accountant
+
+rectangle "Медицинская лаборатория" {
+  usecase "Управление пользователями" as UC1
+  usecase "Контроль истории входов" as UC2
+  usecase "Управление расходными материалами" as UC3
+  usecase "Формирование отчетов" as UC4
+  
+  usecase "Прием биоматериала" as UC5
+  usecase "Формирование заказов" as UC6
+  usecase "Печать штрих-кодов" as UC7
+  
+  usecase "Работа с анализаторами" as UC8
+  usecase "Проведение исследований" as UC9
+  usecase "Подтверждение результатов" as UC10
+  
+  usecase "Формирование счетов" as UC11
+  usecase "Учет оплат" as UC12
+  usecase "Генерация финансовых отчетов" as UC13
+  
+  Admin - -> UC1
+  Admin - -> UC2
+  Admin - -> UC3
+  Admin - -> UC4
+  
+  LabTech - -> UC5
+  LabTech - -> UC6
+  LabTech - -> UC7
+  
+  LabResearcher - -> UC8
+  LabResearcher - -> UC9
+  LabResearcher - -> UC10
+  
+  Accountant - -> UC11
+  Accountant - -> UC12
+  Accountant - -> UC13
+  
+  UC6 .> UC5 : extends
+  UC9 .> UC8 : includes
+  UC10 .> UC9 : extends
+}
+
+note right of Admin
+  Функционал администратора:
+  - Управление учетными записями
+  - Просмотр истории входов
+  - Управление материалами
+  - Формирование отчетов
+end note
+
+note left of LabResearcher
+  Функционал лаборанта-исследователя:
+  - Работа с анализаторами
+  - Проведение исследований
+  - Подтверждение результатов
+  - Контроль качества
+end note
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
